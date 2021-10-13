@@ -11,5 +11,5 @@ I refactored HTML elements into semantic elements, replacing generic 'div' tags 
 I defined each element's affects on the site through notes that describe each section.
 I made it more legible for other developers by refactoring the website's CSS to account for HTML changes made. 
 
-[Screenshot of finished project](https://user-images.githubusercontent.com/88416486/133953777-60498ff0-8bc2-425a-b92d-469c3b7c8acb.png)
-[Horiseon Social Solution Services - Refactor](https://mteubnerfoster.github.io/mtf-code-refactor/)
+* [Screenshot of finished project](https://user-images.githubusercontent.com/88416486/133953777-60498ff0-8bc2-425a-b92d-469c3b7c8acb.png)
+* [Horiseon Social Solution Services - Refactor](https://mteubnerfoster.github.io/mtf-code-refactor/)
