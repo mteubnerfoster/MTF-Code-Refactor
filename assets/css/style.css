@@ -1,5 +1,4 @@
 /* General */
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -11,7 +10,6 @@ body {
 }
 
 /* Header */
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +44,6 @@ nav ul li {
 }
 
 /* Text */
-
 a {
     color: #ffffff;
     text-decoration: none;
@@ -57,7 +54,6 @@ p {
 }
 
 /* Hero Section */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -68,7 +64,6 @@ p {
 }
 
 /* Floating Classes */
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,7 +75,6 @@ p {
 }
 
 /* Main Section */
-
 main {
     width: 75%;
     display: inline-block;
@@ -142,7 +136,6 @@ main {
 }
 
 /* Benefits Aside */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -203,7 +196,6 @@ main {
 }
 
 /* footer */
-
 footer {
     padding: 30px;
     clear: both;
